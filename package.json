@@ -3,6 +3,10 @@
   "displayName": "run-command-on-region",
   "description": "",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/asg0451/run-command-on-region.git"
+  },
   "engines": {
     "vscode": "^1.93.0"
   },
